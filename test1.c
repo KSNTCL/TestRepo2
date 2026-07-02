@@ -2,9 +2,11 @@
 int main()
 {
 		
-		int x = 100 ;
+		int x = 10 ;
 		
 		int a = x++ ;
+		
+		printf("Hello");
 		
 		printf("%d",a);
 		
